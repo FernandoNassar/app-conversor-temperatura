@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor Temperatura 2</string>
+    <string name="btn_converter">Converter</string>
+    <string name="btn_reset">Reset</string>
+    <string name="label_celsius">Celsius</string>
+    <string name="label_fahrenheit">Fahrenheit</string>
+    <string name="label_kelvin">Kelvin</string>
+</resources>
